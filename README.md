@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Scott Mumby</h1>
-<h3 align="center">A Student .NET Developer who is inspired to learn.</h3>
+<h3 align="center">A Student .NET Developer with Future Aspirations as a Azure/MAUI/ASP.NET Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scottmby&label=Profile%20views&color=0e75b6&style=flat" alt="scottmby" /> </p>
 
