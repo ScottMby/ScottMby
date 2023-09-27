@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scottmby&label=Profile%20views&color=0e75b6&style=flat" alt="scottmby" /> </p>
 
-- 🔭 I’m currently working on [Blogr (A .NET Blog Sharing Platform)](https://github.com/ScottMby/Blogr)
+- 🔭 I’m currently working on My honours project: [https://github.com/ScottMby/AI-Military-Commander](Arma 3 AI Military Commander)
 
 - 🌱 I’m currently learning **Entity Framework, SignalR and ASP.NET Identity**
 
