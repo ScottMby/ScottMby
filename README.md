@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on My honors project: [Arma 3 AI Military Commander](https://github.com/ScottMby/AI-Military-Commander)
 
-- 🌱 I’m currently learning **Entity Framework, SignalR and ASP.NET Identity**
+- 🌱 I’m currently learning **SQF and AI Games Programming**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ScottMby](https://github.com/ScottMby)
 
