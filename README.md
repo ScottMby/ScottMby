@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scottmby&label=Profile%20views&color=0e75b6&style=flat" alt="scottmby" /> </p>
 
-- 🔭 I’m currently working on My honors project: [Arma 3 AI Military Commander](https://github.com/ScottMby/AI-Military-Commander)
+- 🔭 My most recent work: [Arma 3 AI Military Commander](https://github.com/ScottMby/AI-Military-Commander)
 
-- 🌱 I’m currently learning **SQF and AI Games Programming**
+- 🌱 I’m currently studying **SQF and AI Games Programming**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ScottMby](https://github.com/ScottMby)
 
