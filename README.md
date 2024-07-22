@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **smumby2003@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1ZQ_S7tekmLJL2hK5E7t5R2u9JCAPcr4gJVc4R2lqwKo/edit?usp=sharing](https://docs.google.com/document/d/1ZQ_S7tekmLJL2hK5E7t5R2u9JCAPcr4gJVc4R2lqwKo/edit?usp=sharing)
+- 📄 Know about my experiences [My CV](t.ly/r-LNh)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
