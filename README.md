@@ -5,7 +5,7 @@
 
 - 🔭 My most recent work: [Arma 3 AI Military Commander](https://github.com/ScottMby/AI-Military-Commander)
 
-- 🌱 I’m currently studying **SQF and AI Games Programming**
+- 🌱 I’m currently studying **Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ScottMby](https://github.com/ScottMby)
 
