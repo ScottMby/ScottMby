@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scottmby&label=Profile%20views&color=0e75b6&style=flat" alt="scottmby" /> </p>
 
-- 🔭 My most recent work: [Arma 3 AI Military Commander](https://github.com/ScottMby/AI-Military-Commander)
+- 🔭 My most recent work: [ChatterboxAPI](https://github.com/ScottMby/ChatterboxAPI)
 
 - 🌱 I’m currently studying **Angular**
 
