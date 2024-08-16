@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [My CV](https://t.ly/r-LNh)
 
-### Blogs posts
+### Blogs post
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
