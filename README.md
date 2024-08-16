@@ -17,6 +17,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [“Stop pushing your connection strings to Git!” — Storing credentials in ASP.NET.](https://medium.com/@smumby2003/stop-pushing-your-connection-strings-to-git-storing-credentials-in-asp-net-528b8bacb73e?source=rss-cf0fe66234e1------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
