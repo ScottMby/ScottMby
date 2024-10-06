@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scottmby&label=Profile%20views&color=0e75b6&style=flat" alt="scottmby" /> </p>
 
-- 🔭 My most recent work: [ChatterBlazorBoxWeb](https://github.com/ScottMby/ChatterboxBlazorWeb)/[ChatterboxAPI](https://github.com/ScottMby/ChatterboxAPI)
+- 🔭 My most recent work: [ChatterBlazorBoxWeb](https://github.com/ScottMby/ChatterboxrWeb)/[ChatterboxAPI](https://github.com/ScottMby/ChatterboxAPI)
 
 - 🌱 I’m currently learning **Angular and PostgreSQL**
 
