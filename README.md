@@ -5,7 +5,7 @@
 
 - 🔭 My most recent work: [ChatterBlazorBoxWeb](https://github.com/ScottMby/ChatterboxrWeb)/[ChatterboxAPI](https://github.com/ScottMby/ChatterboxAPI)
 
-- 🌱 I’m currently learning **Angular and PostgreSQL**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ScottMby](https://github.com/ScottMby)
 
