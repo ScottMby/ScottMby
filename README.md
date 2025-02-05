@@ -3,8 +3,6 @@
 
 <h3 align="center">https://scottmby.github.io/</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=scottmby&label=Profile%20views&color=0e75b6&style=flat" alt="scottmby" /> </p>
-
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ScottMby](https://github.com/ScottMby)
