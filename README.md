@@ -3,7 +3,7 @@
 
 <h3 align="center">https://scottmby.github.io/</h3>
 
-- 🌱 I’m currently learning **React & .NET MAUI**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ScottMby](https://github.com/ScottMby)
 
