@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 My website is available at [scottmby.github.io](scottmby.github.io)
+- 👨‍💻 My website is available at [scottmby.github.io](https://scottmby.github.io)
 
 - 💬 Ask me about **C# and .NET**
 
